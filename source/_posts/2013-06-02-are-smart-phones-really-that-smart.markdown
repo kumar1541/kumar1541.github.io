@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Are smart phones Really That Smart"
+date: 2013-06-02 14:36
+comments: true
+categories: 
+---
