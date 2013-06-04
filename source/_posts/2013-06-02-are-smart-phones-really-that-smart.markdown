@@ -37,7 +37,7 @@ A smartphone is a mobile phone built on a mobile operating system, with more adv
    All these mainly contributing high end device which is possibly not for every group of people to afford.
    Rest of the OS contributes to the low end devices and ofcourse larger part of the market.
 
-{% http://cdn.ndtv.com/tech/images/gadgets/ubuntu-phone-635.jpg %}
+{% img http://cdn.ndtv.com/tech/images/gadgets/ubuntu-phone-635.jpg %}
 
      
 
