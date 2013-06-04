@@ -1,0 +1,3 @@
+[submodule ".themes/phase"]
+	path = .themes/phase
+	url = git://github.com/octothemes/phase.git
